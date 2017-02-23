@@ -92,7 +92,7 @@ namespace MegaEscritorio_Navaja
             }
             else
             {
-                response.Redirect("~/");
+                response.Redirect("~/               ");
             }
         }
     }
